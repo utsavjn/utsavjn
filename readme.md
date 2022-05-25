@@ -1,5 +1,4 @@
-#readme.md
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/iG2wuBiFtD89MaxcUC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/iG2wuBiFtD89MaxcUC">via GIPHY</a></p>
+<p align="center"><img src="https://i.giphy.com/media/iG2wuBiFtD89MaxcUC/giphy.webp" height ="400" width="800"></p>
 <h1 align="center">Hi 👋, I'm Utsav Jain</h1>
 <h3 align="center">I am your next door software engineer</h3>
 

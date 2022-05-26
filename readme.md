@@ -1,6 +1,6 @@
 <a href="https://imgur.com/UabEYnM"><img src="https://i.imgur.com/UabEYnM.gif" title="source: imgur.com" width="1000" height="350" align="center" /></a>
 <!--<h1 align="center">Hi 👋, I'm Utsav Jain</h1>-->
-<h3 align="center">Just Another Next Door Software Engineer</h3>
+<h3 align="center">Just Another Nextdoor Software Engineer</h3>
 
 - 🌱 I’m currently learning **Full Stack Web Developemnt from Odin Project**
 

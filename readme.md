@@ -10,6 +10,8 @@
 
 - 📫 How to reach me **3tsav.jain@gmail.com**
 
+- 📜 See my <a href='https://utsavjn.github.io/cv/' target="blank"/> <b>Resume'</b></a>
+
 - ⚡ Fun fact **I am a food nerd as well**
 
 <h3 align="center">Connect with me:</h3>

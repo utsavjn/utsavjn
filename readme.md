@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any automation framework**
 
-- 💬 Ask me about **Software Testing, Web Development and Indian food**
+- 💬 Ask me about **Web Design, Web Development,  Software Testing, and Indian food**
 
 - 📫 How to reach me **3tsav.jain@gmail.com**
 

@@ -6,11 +6,7 @@
 
 - 👯 I’m looking to collaborate on **any automation framework**
 
-- 💬 Ask me about **Web Design, Web Development,  Software Testing, and Indian food**
-
-- 📫 How to reach me **3tsav.jain@gmail.com**
-
-- 📜 See my <a target="_blank" href='https://utsavjn.github.io/cv/'/> <b>Resume'</b></a>
+- 💬 Ask me about **Web Development,  Software Testing, and Indian food**
 
 - ⚡ Fun fact **I am a food nerd as well**
 

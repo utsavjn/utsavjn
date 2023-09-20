@@ -2,7 +2,7 @@
 <!--<h1 align="center">Hi 👋, I'm Utsav Jain</h1>-->
 <h3 align="center">Just Another Nextdoor Software Engineer</h3>
 
-- 🌱 I’m currently working as **Full Stack Developer for Verizon Media**
+- 🌱 I’m currently working as **Software Engineer**
 
 - 👯 I’m looking to collaborate on **any automation framework**
 
